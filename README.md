@@ -1,2 +1,16 @@
-# food-waste-reduction-platform
-A web-based Food Waste Reduction Platform built with Python Flask and SQLite that connects food donors with NGOs, featuring CRUD operations, donation tracking, and status management.
+**# Food Waste Reduction Platform
+
+A Flask-based web application that connects food donors with NGOs to reduce food wastage.
+
+## Technologies Used
+- Python
+- Flask
+- SQLite
+- HTML
+- Jinja2
+
+## Features
+- Add food donations
+- View available donations
+- Accept donations
+- Delete donations**
